@@ -1,0 +1,29 @@
+ol{
+    color: green;
+    font-size: 20;
+}
+ul{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+#surya{
+    color: blue;
+}
+tr{
+    color: orange;
+}
+#karti{
+    background-color: lightpink;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: 50px ;
+    margin-right: 50px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+#siva{
+    width :100%;
+}
